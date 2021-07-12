@@ -24,12 +24,8 @@
 	
 	{
 		"name": "Village",
-		"uniqueTo": "Continent of Pendor",
 		"food": 4,
-		"uniques": ["[+1 Food] for each adjacent [Mountain]","Does not need replace existing [Pasture],[Camp],[Plantation],[Farm],[Quarry],[Mine]"
-			"[+1 Production, +2 Gold] once [Economics] is discovered",
-			"[+1 Food] on [fresh water] tiles once [Civil Service] is discovered",
-			"[+1 Food] on [non-fresh water] tiles once [Education] is discovered","Great Improvement"],
+		"uniques": ["Great Improvement","Does not replace existing [Pasture],[Camp],[Plantation],[Farm],[Quarry],[Mine]"],
                 "quote": "'If there is anything in this world about which I know positively nothing, it is agriculture.'"
 	},
 ]
