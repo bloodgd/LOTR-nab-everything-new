@@ -12,10 +12,10 @@
 		"gold": 7,
                 "faith": 0,
 		"techRequired": "Masonry",
-		"uniques": ["[+1 Food] on [Fresh water] tiles once [Construction] is discovered","[+1 Production] once [Iron Working] is discovered","[+1 Production] once [Civil Service] is discovered","[+1 Production] once [Metallurgy] is discovered","[+1 Production] once [Chemistry] is discovered",
-			"[+1 Food] on [non-fresh water] tiles once [Physics] is discovered","Can also be built on tiles adjacent to fresh water","[+1 Gold] once [Guilds] is discovered","[+1 Food] once [Chivalry] is discovered","[+2 Science] once [Education] is discovered","[+1 Gold] once [Economics] is discovered",
-			"[+1 Food] on [Fresh water] tiles once [Mathematics] is discovered","[+1 Production] once [Metal Casting] is discovered","[+1 Gold] once [Currency] is discovered","[+1 Food] once [Education] is discovered","[+1 Gold] once [Compass] is discovered","Does not need removal of [Forest]",
-			"[+1 Food] on [non-fresh water] tiles once [Civil Service] is discovered","[+1 Production] once [Chivalry] is discovered","[+1 Production] once [Civil Service] is discovered","Gives a defensive bonus of [150]%", "Can be built just outside your borders"],
+		"uniques": ["[+1 Food] on [Fresh water] tiles once [Construction] is discovered","[+1 Production] once [Iron Working] is discovered","[+1 Production] once [Civil Service] is discovered","[+1 Production] once [Metallurgy] is discovered","[+1 Production] once [Chemistry] is discovered","Cannot be built on bonus resource",
+			"[+1 Food] on [non-fresh water] tiles once [Physics] is discovered","Can also be built on tiles adjacent to fresh water","[+1 Gold] once [Guilds] is discovered","[+1 Food] once [Chivalry] is discovered","[+2 Science] once [Education] is discovered","[+1 Gold] once [Economics] is discovered","Cannot be built on luxury resource",
+			"[+1 Food] on [Fresh water] tiles once [Mathematics] is discovered","[+1 Production] once [Metal Casting] is discovered","[+1 Gold] once [Currency] is discovered","[+1 Food] once [Education] is discovered","[+1 Gold] once [Compass] is discovered","Does not need removal of [Forest]","Cannot be built on strategic resource",
+			"[+1 Food] on [non-fresh water] tiles once [Civil Service] is discovered","[+1 Production] once [Chivalry] is discovered","[+1 Production] once [Civil Service] is discovered","Gives a defensive bonus of [150]%", "Can be built just outside your borders","],
 		"civilopediaText": [
                          {text:"Constructing it will take over the tiles around it and assign them to your closest city"}
 
@@ -28,8 +28,8 @@
 		"name": "Village",
 		"uniqueTo": "Continent of Pendor",
 		"food": 4,
-		"uniques": ["[+1 Food] for each adjacent [Mountain]","Does not need removal of existing [Pasture],[Camp],[Plantation],[Farm],[Quarry],[Mine]"
-			"Cannot be built on bonus resource","[+1 Production, +2 Gold] once [Economics] is discovered",
+		"uniques": ["[+1 Food] for each adjacent [Mountain]","Does not need replace existing [Pasture],[Camp],[Plantation],[Farm],[Quarry],[Mine]"
+			"[+1 Production, +2 Gold] once [Economics] is discovered",
 			"[+1 Food] on [fresh water] tiles once [Civil Service] is discovered",
 			"[+1 Food] on [non-fresh water] tiles once [Education] is discovered","Great Improvement"],
                 "quote": "'If there is anything in this world about which I know positively nothing, it is agriculture.'"
