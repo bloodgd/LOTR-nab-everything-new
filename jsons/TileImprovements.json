@@ -5,7 +5,7 @@
 		"replaces": "Fort",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle","Marsh","Flood plains"],
 		"turnsToBuild": 10,
-		"food": 4,
+		"food": 8,
 		"science": 8,
 		"culture": 8,
 		"production": 9,
