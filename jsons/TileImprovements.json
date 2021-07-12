@@ -16,10 +16,8 @@
 			"[+1 Food] on [non-fresh water] tiles once [Physics] is discovered","Can also be built on tiles adjacent to fresh water","[+1 Gold] once [Guilds] is discovered","[+1 Food] once [Chivalry] is discovered","[+2 Science] once [Education] is discovered","[+1 Gold] once [Economics] is discovered","Cannot be built on luxury resource",
 			"[+1 Food] on [Fresh water] tiles once [Mathematics] is discovered","[+1 Production] once [Metal Casting] is discovered","[+1 Gold] once [Currency] is discovered","[+1 Food] once [Education] is discovered","[+1 Gold] once [Compass] is discovered","Does not need removal of [Forest]","Cannot be built on strategic resource",
 			"[+1 Food] on [non-fresh water] tiles once [Civil Service] is discovered","[+1 Production] once [Chivalry] is discovered","[+1 Production] once [Civil Service] is discovered","Gives a defensive bonus of [150]%", "Can be built just outside your borders","],
-		"civilopediaText": [
-                         {text:"Constructing it will take over the tiles around it and assign them to your closest city"}
-
-        ]
+		"civilopediaText": [{text:"Constructing it will take over the tiles around it and assign them to your closest city"}]
+	
 	},
 	
 	// Great Person improvements
