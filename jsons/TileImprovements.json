@@ -23,6 +23,8 @@
 	// Great Person improvements
 	{
 		"name": "Village",
+                "replaces": "Citadel",
+                "uniqueto": "Continent of Pendor",
 		"food": 4,
 		"uniques": ["Great Improvement","Does not replace existing [Pasture],[Camp],[Plantation],[Farm],[Quarry],[Mine]"],
                 "quote": "'If there is anything in this world about which I know positively nothing, it is agriculture.'"
