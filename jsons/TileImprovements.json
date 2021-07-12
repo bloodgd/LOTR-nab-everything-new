@@ -5,7 +5,7 @@
 		"replaces": "Fort",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle","Marsh","Flood plains"],
 		"turnsToBuild": 10,
-		"food": 8,
+		"food": 4,
 		"science": 8,
 		"culture": 8,
 		"production": 9,
@@ -19,12 +19,5 @@
 		"civilopediaText": [{text:"Constructing it will take over the tiles around it and assign them to your closest city"}],	
 	},
 
-	{
-		"name": "Village",
-                "replaces": "Citadel",
-                "uniqueto": "Continent of Pendor",
-		"food": 4,
-		"uniques": ["Great Improvement","Does not replace existing [Pasture],[Camp],[Plantation],[Farm],[Quarry],[Mine]"],
-                "quote": "'If there is anything in this world about which I know positively nothing, it is agriculture.'"
-	},
+	
 ]
