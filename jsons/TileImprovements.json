@@ -18,7 +18,6 @@
 			"[+1 Food] on [non-fresh water] tiles once [Civil Service] is discovered","[+1 Production] once [Chivalry] is discovered","[+1 Production] once [Civil Service] is discovered","Gives a defensive bonus of [150]%", "Can be built just outside your borders","],
 		"civilopediaText": [{text:"Constructing it will take over the tiles around it and assign them to your closest city"}],	
 	},
-	
 
 	{
 		"name": "Village",
