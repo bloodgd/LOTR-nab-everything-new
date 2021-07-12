@@ -1,7 +1,7 @@
 [
     {
 		"name": "Mounted Rangers and Sergeants",
-	        "replaces": "Machine Gun",
+	        "replaces": "Knight",
 		"uniqueTo": "Continent of Pendor",
 		"unitType": "Ranged",
 		"range": 2,
@@ -20,7 +20,7 @@
 	
 {
 		"name": "Heavy Knights and Sergeant",
-                "replaces": "Landship",
+                "replaces": "Lanced",
 		"uniqueTo": "Continent of Pendor",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -36,7 +36,7 @@
 	},
 {
 		"name": "Foot Knights and Sergeants",
-                "replaces": "Infantry",
+                "replaces": "Longswordsman",
 		"uniqueTo": "Continent of Pendor",
 		"unitType": "Melee",
 		"movement": 3,
