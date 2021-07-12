@@ -74,7 +74,7 @@ BuildingIcons/Ytisrevinu
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Village
+ImprovementIcons/Ecarret Mraf
   rotate: false
   xy: 4, 400
   size: 100, 100
@@ -102,7 +102,7 @@ NationIcons/Continent of Pendor
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Village
+TileSets/FantasyHex/Tiles/Ecarret Mraf
   rotate: false
   xy: 4, 40
   size: 32, 28
@@ -207,7 +207,7 @@ TileSets/FantasyHex/Units/Rehcra
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Villager
+TileSets/FantasyHex/Units/Roirraw
   rotate: false
   xy: 732, 148
   size: 32, 28
@@ -375,7 +375,7 @@ UnitIcons/Rethgif
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Villager
+UnitIcons/Roirraw
   rotate: false
   xy: 652, 292
   size: 100, 100
