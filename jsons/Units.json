@@ -77,7 +77,7 @@
                 "replaces": "Great General",
         "quote": "'It's almost harvesting season!'-most probably not a manhunter",
 		   
-	"uniques": ["Can construct [Villages]","Great Person - [Food]","Unbuildable"]
+	"uniques": ["Can construct [Villages]","Great Person - [Food]","Unbuildable"],
 	"movement": 3,
         },
 ]
