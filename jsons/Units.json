@@ -70,14 +70,5 @@
 		"strength": 18,
 		"rangedStrength": 18,
 },
-            {  
-	"name": "Farmer",
-		"unitType": "Citizen",
-                "uniqueto": "Continent of Pendor",
-                "replaces": "Great General",
-        "quote": "'It's almost harvesting season!'-most probably not a manhunter",
-		   
-	"uniques": ["Can construct [Village]","Great Person - [Food]","Unbuildable"],
-	"movement": 3,
-        },
+
 ]
