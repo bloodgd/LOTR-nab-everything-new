@@ -20,7 +20,7 @@
 	
 {
 		"name": "Heavy Knights and Sergeant",
-                "replaces": "Lanced",
+                "replaces": "Lancer",
 		"uniqueTo": "Continent of Pendor",
 		"unitType": "Mounted",
 		"movement": 4,
