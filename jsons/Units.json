@@ -51,9 +51,6 @@
         "promotions": ["Rejuvenation","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Medic","Medic II","Cover I","Cover II","Sentry","March"],
 		"attackSound": "metalhit"
 	},
-
-      /* Great People */
-
 {
 		"name": "Order Grandmaster",
 		"unitType": "Siege",
