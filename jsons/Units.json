@@ -61,7 +61,6 @@
 		"range": 2,
 		"movement": 6,
 		"strength": 21,
-		"rangedStrength": 21,
+		"rangedstrength": 21,
         },
-]
 ]
