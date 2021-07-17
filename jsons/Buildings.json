@@ -1,11 +1,11 @@
 [
 {
-		"name": "Number One Under Heaven Competition",
+		"name": "Custom Knighthood Order",
                 "uniqueto": "Continent of Pendor",
                 "requiredBuilding": "Found Knighthood Orders",
 		"isWonder": true,
 		"cost": 475,
-		"uniques": ["Empire enters golden age","Free [Order Grandmasters] appears"],
+		"uniques": ["Empire enters golden age","Free [Grandmaster Legion] appears"],
                 "requiredTech": "Chemistry",
 	},
    	{
