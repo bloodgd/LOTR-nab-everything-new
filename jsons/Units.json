@@ -4,6 +4,7 @@
                 "replaces": "Worker",
                 "uniqueTo": "Continent of Pendor",
 		"unitType": "Melee",
+                "strength": 6,
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city"],
                 "upgradesTo": "Heavy Armored PikeAxeMan-at-Arms",
