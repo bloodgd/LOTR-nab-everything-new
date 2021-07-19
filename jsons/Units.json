@@ -7,7 +7,23 @@
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city"],
 		"cost": 206,
+                "upgradesTo": "Heavy Armored PikeAxeMan-at-Arms",
                 "quote": "'It's almost harvesting season!'"
+	},
+{
+		"name": "Heavy Armored PikeAxeMan-at-Arms"
+                "replaces": "Swordsman",
+		"uniqueTo": "Continent of Pendor",
+		"unitType": "Melee",
+		"movement": 3,
+		"strength": 14,
+                "cost": 100,
+		"uniques": ["+10 hp when healing","+[70]% when defending","+[50]% Strength when attacking","Deal +[40]% damage when [wounded]","[Damage taken reduced by [40]%","No movement cost to pillage",
+                         "+[50]% Strength vs [Mounted] units","+[50]% Strength vs [Siege] units","May capture killed [Military] units",
+                         "+[80]% Combat Bonus in [Friendly Land]",
+                         "-[10]% Strength for enemy [Military] units in adjacent [All] tiles","2 tiles in every direction always visible"],
+        "promotions": ["Rejuvenation","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Medic","Medic II","Cover I","Cover II","Sentry","March"],
+		"attackSound": "shot"
 	},
     {
 		"name": "Mounted Rangers and Sergeants",
@@ -54,7 +70,7 @@
 		"requiredTech": "Steel",
                 "requiredResource": "Iron",
 		"uniques": ["+20 hp when healing","+[140]% when defending","+[100]% Strength when attacking","Deal +[80]% damage when [wounded]","[Damage taken reduced by [80]%","No movement cost to pillage",
-                         "+[70]% Strength vs [Mounted] units","+[70]% Strength vs [Siege] units","May capture killed [Military] units","+[70]% Combat Strength vs [Wounded units]","+[70]% Strength vs [Melee] units",
+                         "+[70]% Strength vs [Mounted] units","+[70]% Strength vs [Siege] units","May capture killed [Military] units",
                          "+[310]% Strength vs [City] units","Can move immediately once bought",
                          "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","-[20]% Strength for enemy [Military] units in adjacent [All] tiles","3 tiles in every direction always visible"],
         "promotions": ["Rejuvenation","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Medic","Medic II","Cover I","Cover II","Sentry","March"],
