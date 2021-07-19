@@ -18,9 +18,9 @@
 		"unitType": "Melee",
 		"movement": 3,
 		"strength": 14,
-                "cost": 999999999,
+                "cost": 100,
 		"uniques": ["+[80]% Combat Bonus in [Friendly Land]",
-                         "-[10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+                         "-[10]% Strength for enemy [Military] units in adjacent [All] tiles","Unbuildable","Can only be upgraded from "Villager"],
         "promotions": ["Rejuvenation","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Medic","Medic II","Cover I","Cover II","Sentry","March"],
 		"attackSound": "shot"
 	},
