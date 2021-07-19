@@ -6,6 +6,7 @@
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city"],
 		"cost": 206,
+                "quote": "'It's almost harvesting season!'"
 	},
     {
 		"name": "Mounted Rangers and Sergeants",
