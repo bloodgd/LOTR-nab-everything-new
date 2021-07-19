@@ -6,7 +6,7 @@
 		"unitType": "Civilian",
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city"],
-		"cost": 206,
+		"cost": 50,
                 "upgradesTo": "Heavy Armored PikeAxeMan-at-Arms",
                 "quote": "'It's almost harvesting season!'"
 	},
@@ -17,11 +17,11 @@
 		"unitType": "Melee",
 		"movement": 3,
 		"strength": 14,
-                "cost": 100,
+                "cost": 50,
 		"uniques": ["+10 hp when healing","+[70]% when defending","+[50]% Strength when attacking","Deal +[40]% damage when [wounded]","[Damage taken reduced by [40]%","No movement cost to pillage",
                          "+[50]% Strength vs [Mounted] units","+[50]% Strength vs [Siege] units","May capture killed [Military] units",
                          "+[80]% Combat Bonus in [Friendly Land]",
-                         "-[10]% Strength for enemy [Military] units in adjacent [All] tiles","2 tiles in every direction always visible"],
+                         "-[10]% Strength for enemy [Military] units in adjacent [All] tiles","2 tiles in every direction always visible","Unbuildable"],
         "promotions": ["Rejuvenation","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Medic","Medic II","Cover I","Cover II","Sentry","March"],
 		"attackSound": "shot"
 	},
