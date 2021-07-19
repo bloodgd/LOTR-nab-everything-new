@@ -12,7 +12,7 @@
 	},
 {
 		"name": "Heavy Armored PikeAxeMan-at-Arms",
-                "replaces": "Swordsman",
+                "replaces": "Warrior",
 		"uniqueTo": "Continent of Pendor",
 		"unitType": "Melee",
 		"movement": 3,
