@@ -2,6 +2,7 @@
 {
 		"name": "Villager",
                 "replaces": "Worker",
+                "uniqueTo": "Continent of Pendor",
 		"unitType": "Civilian",
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city"],
