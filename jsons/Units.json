@@ -6,7 +6,7 @@
 		"unitType": "Melee",
                 "strength": 1,
 		"movement": 4,
-		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city","Can upgrade to [Heavy Armored PikeAxeMan-at-Arms]"],
+		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city"],
                 "upgradesTo": "Heavy Armored PikeAxeMan-at-Arms",
 		"cost": 75,
                 "quote": "'It's almost harvesting season!'"
@@ -20,7 +20,7 @@
 		"strength": 14,
                 "cost": 100,
 		"uniques": ["+[80]% Combat Bonus in [Friendly Land]",
-                         "-[10]% Strength for enemy [Military] units in adjacent [All] tiles","Unbuildable","Can only be upgraded from [Villager]"],
+                         "-[10]% Strength for enemy [Military] units in adjacent [All] tiles","Can only be upgraded from [Villager]"],
         "promotions": ["Rejuvenation","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Medic","Medic II","Cover I","Cover II","Sentry","March"],
 		"attackSound": "shot"
 	},
