@@ -11,7 +11,7 @@
                 "quote": "'It's almost harvesting season!'"
 	},
 {
-		"name": "Heavy Armored PikeAxeMan-at-Arms"
+		"name": "Heavy Armored PikeAxeMan-at-Arms",
                 "replaces": "Swordsman",
 		"uniqueTo": "Continent of Pendor",
 		"unitType": "Melee",
