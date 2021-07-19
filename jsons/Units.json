@@ -4,10 +4,10 @@
                 "replaces": "Worker",
                 "uniqueTo": "Continent of Pendor",
 		"unitType": "Civilian",
+                "upgradesTo": "Heavy Armored PikeAxeMan-at-Arms",
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city"],
 		"cost": 50,
-                "upgradesTo": "Heavy Armored PikeAxeMan-at-Arms",
                 "quote": "'It's almost harvesting season!'"
 	},
 {
