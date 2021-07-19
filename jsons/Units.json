@@ -1,4 +1,12 @@
 [
+{
+		"name": "Villager",
+                "replaces": "Worker","Settler","Work Boats",
+		"unitType": "Civilian",
+		"movement": 4,
+		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city"],
+		"cost": 206,
+	},
     {
 		"name": "Mounted Rangers and Sergeants",
 	        "replaces": "Knight",
