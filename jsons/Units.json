@@ -12,7 +12,7 @@
 	},
 {
 		"name": "Heavy Armored PikeAxeMan-at-Arms",
-                "replaces": "Musketman",
+                "replaces": "Pikeman",
 		"uniqueTo": "Continent of Pendor",
 		"unitType": "Ranged",
 		"movement": 2,
