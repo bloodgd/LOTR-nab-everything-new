@@ -4,9 +4,9 @@
                 "replaces": "Worker",
                 "uniqueTo": "Continent of Pendor",
 		"unitType": "Melee",
-                "strength": 6,
+                "strength": 1,
 		"movement": 4,
-		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city"],
+		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city","Can upgrade to "Heavy Armored PikeAxeMan-at-Arms"],
                 "upgradesTo": "Heavy Armored PikeAxeMan-at-Arms",
 		"cost": 75,
                 "quote": "'It's almost harvesting season!'"
