@@ -19,10 +19,10 @@
 		"strength": 15,
                 "cost": 100,
                 "requiredResource": "Copper",
-		"uniques": ["+10 hp when healing","+[140]% when defending","+[100]% Strength when attacking","Deal +[80]% damage when [wounded]","[Damage taken reduced by [80]%","No movement cost to pillage",
-                         "+[70]% Strength vs [Mounted] units","+[70]% Strength vs [Siege] units","May capture killed [Military] units",
-                         "+[310]% Strength vs [City] units","Can move immediately once bought","Consumes [2] [Copper]"
-                         "+[40]% Bonus XP gain","-[20]% Strength for enemy [Military] units in adjacent [All] tiles","3 tiles in every direction always visible"],
+		"uniques": ["+5 hp when healing","+[40]% when defending","+[20]% Strength when attacking","Deal +[20]% damage when [wounded]","[Damage taken reduced by [10]%","No movement cost to pillage",
+                         "+[20]% Strength vs [Mounted] units","+[20]% Strength vs [Siege] units","May capture killed [Military] units",
+                         "+[20]% Strength vs [City] units","Can move immediately once bought","Consumes [2] [Copper]"
+                         "+[40]% Bonus XP gain","-[10]% Strength for enemy [Military] units in adjacent [All] tiles","3 tiles in every direction always visible"],
         "promotions": ["Rejuvenation","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Medic","Medic II","Cover I","Cover II","Sentry","March"],
 		"attackSound": "metalhit"
 	},
@@ -38,8 +38,8 @@
 	        "cost": 200,
 	        "requiredTech": "Chivalry",
                 "requiredResource": "Horses",
-		"uniques": ["+20 hp when healing","+[80]% Combat bonus in [Foreign Land]","+[240]% Strength when attacking","May withdraw before melee ([80]%)","Can move after attacking","No movement cost to pillage",
-                         "+[70]% Strength vs [Ranged] units","+[70]% Strength vs [Land] units","May capture killed [Military] units","Consumes [2] [Horses]"
+		"uniques": ["+5 hp when healing","+[40]% Combat bonus in [Foreign Land]","+[50]% Strength when attacking","May withdraw before melee ([20]%)","Can move after attacking","No movement cost to pillage",
+                         "+[20]% Strength vs [Ranged] units","+[20]% Strength vs [Land] units","May capture killed [Military] units","Consumes [2] [Horses]"
                          "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","6 tiles in every direction always visible"],
         "promotions": ["Rejuvenation","Accuracy I","Accuracy II","Accuracy III","Barrage I","Barrage II","Barrage III","Extended Range","Indirect Fire","Logistics","Cover I","Cover II","Volley","March"],
 		"attackSound": "arrow"
@@ -54,9 +54,9 @@
                 "cost": 250,
 		"requiredTech": "Steel",
                 "requiredResource": "Iron",
-		"uniques": ["+[100]% Strength when attacking","+[80]% Combat Strength in [Land]","[Damage taken reduced by [40]%","+20 hp when healing","Consumes [2] [Iron]"
-                         "+[70]% Strength vs [Wounded units]","+[70]% Strength vs [Melee] units","May capture killed [Military] units","Can move after attacking","Can move immediately once bought",
-                         "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","-[20]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"uniques": ["+[50]% Strength when attacking","+[20]% Combat Strength in [Land]","[Damage taken reduced by [10]%","+5 hp when healing","Consumes [2] [Iron]"
+                         "+[20]% Strength vs [Wounded units]","+[20]% Strength vs [Melee] units","May capture killed [Military] units","Can move after attacking","Can move immediately once bought",
+                         "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","-[10]% Strength for enemy [Military] units in adjacent [All] tiles"],
         "promotions": ["Rejuvenation","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Charge","Formation I","Formation II","Blitz","Medic","Medic II","Sentry","Mobility","March"],
 		"attackSound": "horse"
 	},
