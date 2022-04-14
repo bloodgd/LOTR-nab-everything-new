@@ -34,11 +34,11 @@
 		"range": 2,
 		"movement": 5,
 		"strength": 20,
-		"rangedStrength": 21,
+		"rangedStrength": 20,
 	        "cost": 200,
 	        "requiredTech": "Chivalry",
                 "requiredResource": "Horses",
-		"uniques": ["+5 hp when healing","+[40]% Combat bonus in [Foreign Land]","+[50]% Strength when attacking","May withdraw before melee ([20]%)","Can move after attacking","No movement cost to pillage",
+		"uniques": ["+5 hp when healing","+[50]% Combat bonus in [Foreign Land]","+[50]% Strength when attacking","May withdraw before melee ([20]%)","Can move after attacking","No movement cost to pillage",
                          "+[20]% Strength vs [Ranged] units","+[20]% Strength vs [Land] units","May capture killed [Military] units","Consumes [2] [Horses]"
                          "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","6 tiles in every direction always visible"],
         "promotions": ["Rejuvenation","Accuracy I","Accuracy II","Accuracy III","Barrage I","Barrage II","Barrage III","Extended Range","Indirect Fire","Logistics","Cover I","Cover II","Volley","March"],
@@ -54,7 +54,7 @@
                 "cost": 250,
 		"requiredTech": "Steel",
                 "requiredResource": "Iron",
-		"uniques": ["+[50]% Strength when attacking","+[20]% Combat Strength in [Land]","[Damage taken reduced by [10]%","+5 hp when healing","Consumes [2] [Iron]"
+		"uniques": ["+[40]% Strength when attacking","+[20]% Combat Strength in [Land]","[Damage taken reduced by [20]%","+5 hp when healing","Consumes [2] [Iron]"
                          "+[20]% Strength vs [Wounded units]","+[20]% Strength vs [Melee] units","May capture killed [Military] units","Can move after attacking","Can move immediately once bought",
                          "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","-[10]% Strength for enemy [Military] units in adjacent [All] tiles"],
         "promotions": ["Rejuvenation","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Charge","Formation I","Formation II","Blitz","Medic","Medic II","Sentry","Mobility","March"],
@@ -70,7 +70,7 @@
 		"rangedStrength": 25,
                 "requiredResource": "Mithril",
 		"uniques": ["Bonus for units in 2 tile radius 10%","Deal +[20]% damage when [wounded]","+[20]% Combat bonus in [Foreign Land]","+[20]% Strength vs [Mounted] units","+[20]% Strength vs [Siege] units","+[20]% Strength vs [Ranged] units","+[20]% Strength vs [Land] units","Consumes [4] [Mithril]"
-			    "Heal this unit and adjacent units for an additional 5 HP per turn","Can move after attacking","+[40]% Strength when attacking","+[50]% Strength vs [City] units","+[20]% Combat Strength in [Land]","[50]% Strength when defending","+[20]% Strength vs [Wounded units]","Unbuildable"],
+			    "Heal this unit and adjacent units for an additional 5 HP per turn","Can move after attacking","+[40]% Strength when attacking","+[50]% Strength vs [City] units","+[20]% Combat Strength in [Land]","[60]% Strength when defending","+[20]% Strength vs [Wounded units]","Unbuildable"],
                 "promotions": ["Rejuvenation","Accuracy I","Accuracy II","Accuracy III","Barrage I","Barrage II","Barrage III","Extended Range","Indirect Fire","Logistics","Cover I","Cover II","Volley","March"],
         },
 ]
