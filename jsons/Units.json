@@ -54,7 +54,7 @@
                 "cost": 250,
 		"requiredTech": "Steel",
                 "requiredResource": "Iron",
-		"uniques": ["+[100]% Strength when attacking","+[80]% Combat Strength in [Land]","[Damage taken reduced by [40]%","+20 hp when healing","Consumes [2] [Niter]"
+		"uniques": ["+[100]% Strength when attacking","+[80]% Combat Strength in [Land]","[Damage taken reduced by [40]%","+20 hp when healing","Consumes [2] [Iron]"
                          "+[70]% Strength vs [Wounded units]","+[70]% Strength vs [Melee] units","May capture killed [Military] units","Can move after attacking","Can move immediately once bought",
                          "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","-[20]% Strength for enemy [Military] units in adjacent [All] tiles"],
         "promotions": ["Rejuvenation","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Charge","Formation I","Formation II","Blitz","Medic","Medic II","Sentry","Mobility","March"],
