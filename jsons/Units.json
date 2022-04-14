@@ -66,7 +66,7 @@
                 "uniqueto": "Continent of Pendor",
                 "range": 2,
 		"movement": 6,
-		"strength": 30,
+		"strength": 25,
 		"rangedStrength": 25,
                 "requiredResource": "Mithril",
 		"uniques": ["Bonus for units in 2 tile radius 20%","Deal +[80]% damage when [wounded]","+[80]% Combat bonus in [Foreign Land]","+[136]% Strength vs [Mounted] units","+[70]% Strength vs [Siege] units","+[70]% Strength vs [Ranged] units","+[70]% Strength vs [Land] units","Consumes [4] [Mithril]"
